@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "plastic-manufacturing-erp",
+  "description": "Plastic Manufacturing ERP — Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Plastic manufacturing ERP for molds, production batches, scrap tracking, and distributor orders. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/plastic-manufacturing-erp"
+}
